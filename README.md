@@ -19,8 +19,8 @@ A modern, intuitive way to control your computer mouse using hand gestures captu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/hand-gesture-mouse-controller.git
-cd hand-gesture-mouse-controller
+https://github.com/HRMR2003/ai_mouse_controller.git
+cd ai_mouse_controller.git
 ```
 2. Install the required dependencies:
 ```bash
